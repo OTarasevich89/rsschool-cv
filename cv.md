@@ -60,29 +60,22 @@ BrGTU
 ## Projects
 
 ### App Exchange Application  
-03/2019  
 - **Description:** Integrated Basket API for message sending. Configured message service with options to select target numbers.
 
 ### Insurance Project  
-05/2019 - 09/2019  
 - **Responsibilities:** Developed new features, optimized unit tests, and resolved issues with permissions after Salesforce updates.
 
 ### Lightning Component for SMS  
-09/2020 - 12/2020  
 - **Description:** Created components for sending SMS and configurations, with data retrieval from REST API and adherence to best practices.
 
 ### Rental Agency Application  
-01/2019 - 03/2020  
 - **Key Achievements:** Developed LWC components for construction plan uploads and implemented interactive anchor marking.
 
-### Sales Project  
-05/2020 - 02/2021  
+### Sales Project   
 - **Involvement:** Developed Apex triggers, rewrote Visualforce pages to LWC, and managed process logic and post-install scripts.
 
 ### Sales Company Project  
-03/2021 - 11/2021  
 - **Focus:** Created new flows, updated email templates, and built LWC components.
 
 ### Financial Project  
-06/2022 - 12/2022  
 - **Description:** Maintained and updated existing LWC components to improve functionality.
