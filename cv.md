@@ -8,7 +8,7 @@
 ---
 
 ## Profile
-With over 5 years of professional experience in Salesforce, I am a self-driven, reliable Software Engineer committed to continuous learning and improvement. Primarily focused on developing high-quality production applications, I am also open to integrating modern technologies.
+With over 5 years of professional experience in Salesforce, I am a self-driven, reliable Software Engineer committed to continuous learning and improvement. Primarily focused on developing high-quality production applications, I am also open to integrating modern technologies. Now I want to change direction and retrain as a Frontend Developer
 
 ---
 
